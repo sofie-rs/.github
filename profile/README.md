@@ -21,7 +21,7 @@ from it. An app writes only its own logic.
 ## Get started
 
 ```sh
-cargo install --git https://github.com/sofie-rs/sofie sofie-cli
+cargo install sofie-cli
 sofie new app shop
 ```
 
