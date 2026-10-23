@@ -1,6 +1,6 @@
 <img src="logo.png" alt="" width="96" height="96">
 
-# sofie
+# Sofie
 
 A Rust web framework built around a fixed app structure. Every file has a known
 place and role, so the framework reads the whole app at build time and derives
