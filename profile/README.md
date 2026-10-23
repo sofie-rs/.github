@@ -23,7 +23,8 @@ cargo install --git https://github.com/sofie-rs/sofie sofie-cli
 sofie new app shop
 ```
 
-The [repository](https://github.com/sofie-rs/sofie) has the full steps, the
+The [documentation](https://sofie-rs.github.io/sofie.rs/) has the full steps
+and the reference; the [repository](https://github.com/sofie-rs/sofie) has the
 examples and the design documents.
 
 Licensed under MIT or Apache-2.0, at your option.
